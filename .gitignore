@@ -1,0 +1,14 @@
+/.idea
+/target
+/.settings
+.project
+.classpath
+*.iml
+*.log
+**/target
+**/.idea
+.DS_Store
+spark-
+install.sh
+~*.xlsx
+**/*.jar
